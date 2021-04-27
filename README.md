@@ -1,0 +1,1 @@
+This program allows a user to earn a certain amount for each click they make on the image. After user has earned at least $10, they can request a raise so that their click is worth more.
